@@ -172,10 +172,6 @@ Replace the database name, username, and password with your local PostgreSQL con
 
 ## 📸 Project Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
 ```
 <img width="1349" height="635" alt="Screenshot_2-10-2026_15138_localhost" src="https://github.com/user-attachments/assets/2584e7c1-149f-4903-a2c0-81ac97b1ff99" />
 
@@ -183,6 +179,7 @@ Example:
 
 <img width="1351" height="621" alt="Screenshot_2-10-2026_151032_localhost" src="https://github.com/user-attachments/assets/5ca461ce-4a3e-4d45-80e4-72c266b3cb86" />
 
+```
 
 ## 🚀 Future Enhancements
 
