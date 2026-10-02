@@ -177,7 +177,7 @@ Add screenshots of your application here.
 Example:
 
 ```
-<img width="1349" height="635" alt="Screenshot_2-10-2026_15138_localhost" src="https://github.com/user-attachments/assets/3f4b166c-732d-48dc-8871-488cea0b8a5f" />
+<img width="1349" height="635" alt="Screenshot_2-10-2026_15138_localhost" src="https://github.com/user-attachments/assets/2584e7c1-149f-4903-a2c0-81ac97b1ff99" />
 
 <img width="1342" height="634" alt="Screenshot_2-10-2026_15821_localhost" src="https://github.com/user-attachments/assets/4edf4909-5a44-4631-8c2d-0329349561aa" />
 
