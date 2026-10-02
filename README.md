@@ -177,12 +177,12 @@ Add screenshots of your application here.
 Example:
 
 ```
-![Student Dashboard](screenshots/dashboard.png)
+<img width="1349" height="635" alt="Screenshot_2-10-2026_15138_localhost" src="https://github.com/user-attachments/assets/3f4b166c-732d-48dc-8871-488cea0b8a5f" />
 
-![Student List](screenshots/student-list.png)
+<img width="1342" height="634" alt="Screenshot_2-10-2026_15821_localhost" src="https://github.com/user-attachments/assets/4edf4909-5a44-4631-8c2d-0329349561aa" />
 
-![Add Student](screenshots/add-student.png)
-```
+<img width="1351" height="621" alt="Screenshot_2-10-2026_151032_localhost" src="https://github.com/user-attachments/assets/5ca461ce-4a3e-4d45-80e4-72c266b3cb86" />
+
 
 ## 🚀 Future Enhancements
 
